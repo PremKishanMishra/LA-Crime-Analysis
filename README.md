@@ -25,7 +25,8 @@ Diagrams
 Has the ER relationship diagram 
 
 Data
-COntains the dump to ingest the table 
+
+Contains the dump to ingest the table 
 
 Solutions
 Submission_prem-5.sql
